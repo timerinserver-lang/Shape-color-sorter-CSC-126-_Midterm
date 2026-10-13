@@ -11,7 +11,7 @@ A Python + OpenCV application that finds colored shapes in an image, a recorded 
 
 ## Features
 
-- Detects 6 colors (Red, Orange, Yellow, Green, Blue, Purple) and 5 shapes (Triangle, Square, Rectangle, Pentagon, Circle)
+- Detects 7 colors (Red, Orange, Yellow, Green, Blue, Purple, Black) and 5 shapes (Triangle, Square, Rectangle, Pentagon, Circle)
 - Works on a **static image**, a **recorded video**, or a **live webcam**
 - Draws contours, bounding boxes, labels, centroids and a translucent mask overlay
 - Side panel with totals per label and live FPS
@@ -98,7 +98,7 @@ The recorded video runs at about 70+ FPS on a laptop CPU.
 
 ## Limitations
 
-- Objects must have a **strong color**. White, black, grey or very faded objects are not detected (12 of the 18 misses in the stress test).
+- Objects must have a **strong color**. White or very faded objects are not detected (12 of the 18 misses in the stress test).
 - Very **small objects** (under about 600 px² after resizing) are filtered out as noise (the other 6 misses).
 - **Touching or overlapping** shapes of the same color merge into one contour.
 - Objects **cut off by the frame edge** can be misclassified.

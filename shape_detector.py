@@ -44,6 +44,7 @@ COLOR_RANGES = {
     "Green":  [((35, 70, 50), (85, 255, 255))],
     "Blue":   [((86, 90, 50), (128, 255, 255))],
     "Purple": [((129, 60, 50), (169, 255, 255))],
+    "Black":  [((0,0,0),(179,70,110))],
 }
 
 # BGR colors used when drawing each label (OpenCV uses BGR, not RGB).
@@ -54,6 +55,7 @@ DRAW_COLORS = {
     "Green": (60, 170, 60),
     "Blue": (220, 110, 30),
     "Purple": (170, 60, 150),
+    "Black": (0, 0, 0),
 }
 
 
