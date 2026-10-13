@@ -1,0 +1,2518 @@
+{
+ "clean_01.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    767,
+    164
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    734,
+    438
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    153,
+    757
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    756,
+    763
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    1053,
+    762
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    1069,
+    435
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    1031,
+    143
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    426,
+    740
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    148,
+    453
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    168,
+    136
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    440,
+    139
+   ]
+  }
+ ],
+ "clean_02.jpg": [
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    739,
+    441
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    129,
+    145
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    1040,
+    160
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    470,
+    158
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    1053,
+    745
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    463,
+    449
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    1051,
+    440
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    440,
+    741
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    137,
+    748
+   ]
+  }
+ ],
+ "clean_03.jpg": [
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    469,
+    738
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    758,
+    757
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    1036,
+    438
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    461,
+    149
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    768,
+    436
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    146,
+    163
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    1060,
+    748
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    1071,
+    164
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    774,
+    148
+   ]
+  }
+ ],
+ "clean_04.jpg": [
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    1072,
+    461
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    135,
+    156
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    753,
+    455
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    432,
+    738
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    435,
+    450
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    736,
+    757
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    749,
+    137
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    137,
+    750
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    1073,
+    741
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    445,
+    141
+   ]
+  }
+ ],
+ "clean_05.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    1042,
+    735
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    464,
+    158
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    162,
+    136
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    442,
+    465
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    748,
+    761
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    1026,
+    456
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    141,
+    453
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    468,
+    735
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    767,
+    152
+   ]
+  }
+ ],
+ "clean_06.jpg": [
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    138,
+    148
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    1038,
+    162
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    455,
+    739
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    745,
+    757
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    1042,
+    752
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    742,
+    160
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    152,
+    765
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    1035,
+    436
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    435,
+    149
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    740,
+    455
+   ]
+  }
+ ],
+ "clean_07.jpg": [
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    1045,
+    447
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    1040,
+    739
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    150,
+    153
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    434,
+    436
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    152,
+    436
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    1039,
+    142
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    740,
+    143
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    730,
+    746
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    455,
+    736
+   ]
+  }
+ ],
+ "clean_08.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    468,
+    144
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    140,
+    462
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    730,
+    748
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    1057,
+    454
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    435,
+    735
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    1042,
+    761
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    771,
+    449
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    728,
+    154
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    1046,
+    162
+   ]
+  }
+ ],
+ "clean_09.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    153,
+    735
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    466,
+    154
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    751,
+    159
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    426,
+    456
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    1048,
+    456
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    755,
+    743
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    436,
+    750
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    148,
+    450
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    1065,
+    147
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    741,
+    448
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    137,
+    144
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    1054,
+    742
+   ]
+  }
+ ],
+ "clean_10.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    470,
+    446
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    1055,
+    736
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    473,
+    163
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    775,
+    137
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    164,
+    161
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    1047,
+    151
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    165,
+    758
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    168,
+    464
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    427,
+    742
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    766,
+    759
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    766,
+    463
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    1074,
+    456
+   ]
+  }
+ ],
+ "hard_01.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    769,
+    756
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    438,
+    141
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    1031,
+    765
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    146,
+    457
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    167,
+    165
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    433,
+    747
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    437,
+    445
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    748,
+    438
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    147,
+    752
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    1070,
+    158
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    769,
+    144
+   ]
+  }
+ ],
+ "hard_02.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    449,
+    456
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    470,
+    765
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    471,
+    138
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    169,
+    448
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    763,
+    460
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    751,
+    739
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    770,
+    155
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    1049,
+    150
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    1032,
+    436
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    148,
+    765
+   ]
+  }
+ ],
+ "hard_03.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    1043,
+    159
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    1049,
+    754
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    449,
+    754
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    471,
+    455
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    1072,
+    442
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    738,
+    759
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    430,
+    154
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    750,
+    459
+   ]
+  }
+ ],
+ "hard_04.jpg": [
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    441,
+    448
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    751,
+    151
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    1055,
+    439
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    131,
+    142
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    139,
+    451
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    1029,
+    149
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    1033,
+    735
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    131,
+    756
+   ]
+  }
+ ],
+ "hard_05.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    145,
+    158
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    426,
+    750
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    1026,
+    735
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    728,
+    762
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    747,
+    160
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    1044,
+    142
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    126,
+    762
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    438,
+    162
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    729,
+    439
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    162,
+    458
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    1059,
+    443
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    467,
+    442
+   ]
+  }
+ ],
+ "hard_06.jpg": [
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    445,
+    460
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    1031,
+    747
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    749,
+    142
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    747,
+    745
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    452,
+    761
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    1027,
+    146
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    127,
+    141
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    754,
+    441
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    132,
+    742
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    454,
+    142
+   ]
+  }
+ ],
+ "hard_07.jpg": [
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    425,
+    752
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    1028,
+    153
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    730,
+    438
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    163,
+    740
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    769,
+    748
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    1056,
+    747
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    171,
+    437
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    457,
+    151
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    1068,
+    445
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    469,
+    457
+   ]
+  }
+ ],
+ "hard_08.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    743,
+    157
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    453,
+    144
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    449,
+    460
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    428,
+    760
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    1043,
+    747
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    1032,
+    156
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    1055,
+    464
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    161,
+    158
+   ]
+  }
+ ],
+ "hard_09.jpg": [
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    729,
+    747
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    456,
+    454
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    1057,
+    747
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    463,
+    160
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    160,
+    744
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    730,
+    136
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    747,
+    439
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    441,
+    752
+   ]
+  }
+ ],
+ "hard_10.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    1026,
+    442
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    734,
+    135
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    465,
+    757
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    764,
+    457
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    1068,
+    738
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    142,
+    136
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    1054,
+    165
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    172,
+    751
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    447,
+    462
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    163,
+    446
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    768,
+    746
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    427,
+    138
+   ]
+  }
+ ],
+ "stress_01.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    764,
+    753
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    1035,
+    759
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    443,
+    157
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    1029,
+    149
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    463,
+    437
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    1064,
+    443
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    766,
+    165
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    164,
+    137
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    133,
+    754
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    444,
+    754
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    726,
+    450
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    170,
+    457
+   ]
+  }
+ ],
+ "stress_02.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    460,
+    760
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    727,
+    465
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    1069,
+    163
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    1074,
+    465
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    132,
+    439
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    1045,
+    764
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    736,
+    744
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Green",
+   "center": [
+    441,
+    148
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    771,
+    146
+   ]
+  }
+ ],
+ "stress_03.jpg": [
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    758,
+    157
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    133,
+    747
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    444,
+    136
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    158,
+    440
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    1027,
+    457
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    737,
+    746
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    1062,
+    141
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    440,
+    457
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    430,
+    761
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    735,
+    446
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    135,
+    142
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    1044,
+    756
+   ]
+  }
+ ],
+ "stress_04.jpg": [
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    142,
+    744
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    147,
+    162
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    1038,
+    459
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    1069,
+    739
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Purple",
+   "center": [
+    764,
+    440
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    455,
+    462
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    771,
+    163
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    445,
+    146
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    472,
+    735
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    1072,
+    136
+   ]
+  }
+ ],
+ "stress_05.jpg": [
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    741,
+    738
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    135,
+    736
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    753,
+    148
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    772,
+    465
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    1043,
+    454
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Yellow",
+   "center": [
+    1068,
+    148
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    145,
+    457
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    151,
+    146
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    1041,
+    735
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    442,
+    751
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    444,
+    160
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    473,
+    435
+   ]
+  }
+ ],
+ "stress_06.jpg": [
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    1029,
+    438
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    128,
+    449
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    1066,
+    756
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    451,
+    755
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    157,
+    750
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    763,
+    758
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Orange",
+   "center": [
+    161,
+    157
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    446,
+    451
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    773,
+    462
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    1063,
+    139
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    750,
+    135
+   ]
+  }
+ ],
+ "stress_07.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    740,
+    435
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    1060,
+    735
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    429,
+    165
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    442,
+    762
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Yellow",
+   "center": [
+    145,
+    443
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    1071,
+    143
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Green",
+   "center": [
+    762,
+    135
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Blue",
+   "center": [
+    170,
+    745
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    751,
+    739
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    149,
+    162
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Purple",
+   "center": [
+    1058,
+    435
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Blue",
+   "center": [
+    438,
+    440
+   ]
+  }
+ ],
+ "stress_08.jpg": [
+  {
+   "shape": "Pentagon",
+   "color": "Blue",
+   "center": [
+    435,
+    458
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    161,
+    159
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    756,
+    447
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    455,
+    736
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Yellow",
+   "center": [
+    1032,
+    743
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Green",
+   "center": [
+    145,
+    760
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Red",
+   "center": [
+    471,
+    149
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    730,
+    736
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    1035,
+    463
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Red",
+   "center": [
+    153,
+    449
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    1060,
+    165
+   ]
+  }
+ ],
+ "stress_09.jpg": [
+  {
+   "shape": "Square",
+   "color": "Yellow",
+   "center": [
+    1054,
+    437
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Yellow",
+   "center": [
+    135,
+    160
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    155,
+    442
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    129,
+    764
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Purple",
+   "center": [
+    1038,
+    155
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Orange",
+   "center": [
+    462,
+    736
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Red",
+   "center": [
+    1037,
+    744
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    459,
+    452
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    732,
+    738
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Green",
+   "center": [
+    771,
+    164
+   ]
+  }
+ ],
+ "stress_10.jpg": [
+  {
+   "shape": "Rectangle",
+   "color": "Orange",
+   "center": [
+    425,
+    753
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Purple",
+   "center": [
+    172,
+    162
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Red",
+   "center": [
+    1073,
+    445
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    1025,
+    749
+   ]
+  },
+  {
+   "shape": "Circle",
+   "color": "Blue",
+   "center": [
+    143,
+    756
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Green",
+   "center": [
+    467,
+    459
+   ]
+  },
+  {
+   "shape": "Pentagon",
+   "color": "Red",
+   "center": [
+    1042,
+    137
+   ]
+  },
+  {
+   "shape": "Rectangle",
+   "color": "Purple",
+   "center": [
+    740,
+    144
+   ]
+  },
+  {
+   "shape": "Triangle",
+   "color": "Orange",
+   "center": [
+    136,
+    458
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Blue",
+   "center": [
+    435,
+    159
+   ]
+  },
+  {
+   "shape": "Square",
+   "color": "Orange",
+   "center": [
+    743,
+    740
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+
+Clean images: 10 images, 100 objects
+  Recall     100.0%
+  Precision  100.0%  (false positives: 0)
+  Color acc. 100.0%
+  Shape acc. 100.0%
+  Both right 100.0%
+
+Hard images: 10 images, 97 objects
+  Recall     100.0%
+  Precision  100.0%  (false positives: 0)
+  Color acc. 100.0%
+  Shape acc. 100.0%
+  Both right 100.0%
+
+Stress images: 10 images, 110 objects
+  Recall     83.6%
+  Precision  100.0%  (false positives: 0)
+  Color acc. 100.0%
+  Shape acc. 98.9%
+  Both right 98.9%
+  Errors: missed Red Triangle x4, missed Red Rectangle x2, missed Purple Triangle x2, missed Yellow Triangle x2, missed Red Circle x2, missed Blue Square x1, missed Orange Pentagon x1, missed Orange Square x1, missed Yellow Rectangle x1, missed Yellow Square x1, Square -> Pentagon x1, missed Blue Circle x1
+
+All images: 30 images, 307 objects
+  Recall     94.1%
+  Precision  100.0%  (false positives: 0)
+  Color acc. 100.0%
+  Shape acc. 99.7%
+  Both right 99.7%
+  Errors: missed Red Triangle x4, missed Red Rectangle x2, missed Purple Triangle x2, missed Yellow Triangle x2, missed Red Circle x2, missed Blue Square x1, missed Orange Pentagon x1, missed Orange Square x1, missed Yellow Rectangle x1, missed Yellow Square x1, Square -> Pentagon x1, missed Blue Circle x1
