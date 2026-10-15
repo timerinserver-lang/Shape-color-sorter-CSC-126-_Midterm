@@ -3,7 +3,7 @@
 **CSC 126 – Computer Vision Midterm Project**
 Caraga State University · College of Computing and Information Sciences
 
-Members: _[Name 1]_, _[Name 2]_, _[Name 3]_
+Members: Nur-medea O. Atega         Jobert Jan A. Bautista         Stu Brycir RH S. Monding
 
 A Python + OpenCV application that finds colored shapes in an image, a recorded video, or a live webcam feed, labels each one by **color and shape** (for example, *Red Triangle*), and counts how many of each there are. It models the vision step of a sorting station, where items on a table or conveyor have to be identified before they can be sorted.
 
